@@ -1,0 +1,1 @@
+This folder will clean it self each time build command is used.

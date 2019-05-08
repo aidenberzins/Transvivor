@@ -1,0 +1,15 @@
+{
+  "name": "transvivor",
+  "version": "2.0.0",
+  "description": "A gender resource",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiden Berzins | Transvivor",
+  "license": "See license in license.txt",
+  "dependencies": {
+    "browsersync": "0.0.1-security",
+    "gulp": "^4.0.1"
+  }
+}
